@@ -6,4 +6,4 @@ dd
 dd
 dd
 sss
-divergenza 1
+divergenza 2
